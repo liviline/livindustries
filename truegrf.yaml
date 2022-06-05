@@ -1,7 +1,7 @@
-description: Empty TrueGRF project
-grfid: TRU1
+description: Livi Industries add on for FIRS
+grfid: OTP1
 license: CC-BY-NC-SA-4.0
-name: TrueGRF
+name: Livi Industries
 type: industry
 url: https://github.com/liviline/livindustries
 version: 5
